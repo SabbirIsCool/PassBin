@@ -1,4 +1,4 @@
-from OpenPassFN import *
+from PassOpenFN import *
 
 #Intro
 print("Hello, user!")
