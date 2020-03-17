@@ -2,7 +2,7 @@
 
 # Run the main.py file.
 
-# Enter how many password and digits you want.
+# Enter how many passwords and digits you want.
 
 # The algorithm will generate secure and strong passwords for you.
 
