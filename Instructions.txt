@@ -7,5 +7,3 @@
 # The algorithm will generate secure and strong passwords for you.
 
 # Enjoy ( ͡ᵔ ͜ʖ ͡ᵔ )
-
-License: MIT
