@@ -1,0 +1,9 @@
+# Instructions:
+
+### Run the PassOpen.py file.
+
+### Enter how many passwords and digits you want(INTEGERS ONLY).
+
+### The algorithm will generate secure and strong passwords for you.
+
+### Enjoy ( ͡ᵔ ͜ʖ ͡ᵔ )
