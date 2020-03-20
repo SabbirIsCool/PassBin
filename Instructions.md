@@ -1,6 +1,6 @@
 # #Instructions:
 
-### 1.Run the PassOpen.py file.
+### 1.Run the PassBin.exe file.
 
 ### 2.Enter how many passwords and digits you want(INTEGERS ONLY).
 
