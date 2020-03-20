@@ -7,6 +7,6 @@ Please note that this program is licensed under the *MIT License*. Meaning, you 
 program **freely**. The license notice is in the *LICENSE.md* file. You can learn about the *MIT License* on the wikipedia link 
 written below.
 
-Link: https://en.wikipedia.org/wiki/MIT_License
+Link: **https://en.wikipedia.org/wiki/MIT_License**
 
 Hope, you enjoy my app :)
